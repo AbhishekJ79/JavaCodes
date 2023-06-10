@@ -6,7 +6,7 @@ public class printDuplicateInArrays {
 
 	public static void main(String[] args) {
 		
-		int arr1[]= {12,22,32,54,61};
+		int arr1[]= {12,22,32,54,63};
 		int arr2[]= {12,23,32,55,61};
 		
 		HashSet<Integer>Hs= new HashSet<>();
